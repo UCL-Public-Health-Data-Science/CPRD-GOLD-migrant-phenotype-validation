@@ -15,8 +15,8 @@ library(Hmisc)
 ## Import data -----------------------------------------------------------------------
 
 # Cohort files 
-migrants <- read_tsv("filepath/migrants.tsv") 
-all_patients <- read_csv("filepath/all_patients.csv") # includes migrants
+all_patients <- read_csv("filepath/all_patients.csv") # full cohort file (Jan 2019 build) extracted from CPRD
+migrants <- read_tsv("filepath/migrants.tsv") # subset of cohort file extracted from CPRD, includes migrants only
 
 # Events files
 migration <- read_csv("filepath/migration.csv")
