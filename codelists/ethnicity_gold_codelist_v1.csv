@@ -1,6 +1,6 @@
 metadata,category,readcode,readterm,medcode
 Name: ethnicity_cprd_gold,1,9S10.00,White British,12446
-Version: 4                          ,1,9S13.00,White Scottish,26467
+Version: 1                          ,1,9S13.00,White Scottish,26467
 Source: cprd,1,9S14.00,Other white British ethnic group,26310
 Author: Neha Pathak ,1,9i00.00,White British - ethnic category 2001 census,98111
 Date: 24 Oct 2019    ,1,9i20.00,English - ethnic category 2001 census,12352
