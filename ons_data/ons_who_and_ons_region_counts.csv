@@ -1,0 +1,6 @@
+data,who_region,n ,N,who_percentage,ons_region,n_ons,N_ons,ons_percentage
+2011 Census,euro,2748455,4734473,57.79160694,Europe,2748455,7504912,36.62208164
+2011 Census,afro,1312617,4734473,27.88276635,Middle East & Asia,2587066,7504912,34.47163671
+2011 Census,paho,673401,4734473,14.32562671,Africa,1312617,7504912,17.49010515
+2011 Census,,,,,The Americas & Caribbean,673401,7504912,8.972803412
+2011 Census,,,,,Antarctica & Oceania,183373,7504912,2.443373087
