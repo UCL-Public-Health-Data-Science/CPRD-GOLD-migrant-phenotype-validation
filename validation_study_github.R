@@ -2,7 +2,7 @@
 
 # Cleaning and analysis for CPRD GOLD migration phenotype validation 
 # Date started: 03/02/2020
-# Author: Neha Pathak
+# Author: Neha Pathak & Claire Zhang
 
 # 02_Load packages -------------------------------------------------------------------------
 
