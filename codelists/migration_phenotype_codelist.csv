@@ -1,0 +1,435 @@
+metadata,category,readcode,readterm,medcode
+Name: migration_cprd_gold,1,1343,Asian origin,25801
+Version: 1                          ,1,1345,South American origin,32101
+Source: cprd gold,1,2263.11,O/E - Asian origin,32132
+Author: Neha Pathak / Rachel Burns / Rob Aldridge         ,1,1344,North American origin,41150
+Date: 2/10/2019    ,1,1342,African origin,45125
+Categories:,1,134A.00,West Indian origin,45131
+1. Non-UK origin,1,1347,Indian origin,45144
+2. Born outside of the UK,1,1348,Middle Eastern origin,47951
+3. First/main language not English,1,9SA5.00,Other African countries (NMO),47969
+4. Visa status indicating migration,1,1346,Australian origin,47975
+,1,2263,O/E - Mongoloid origin,66536
+,2,13e..00,Country of birth (Asian),11552
+,2,13gf.00,Born in South Africa,12458
+,2,13eG.00,Born in Iraq,12713
+,2,13eH.00,Born in Israel,25007
+,2,13go.00,Born in Zimbabwe,25008
+,2,13eY.00,Born in Philippines,25092
+,2,13gi.00,Born in Tanzania,25133
+,2,13dl.00,Born in Yugoslavia,25256
+,2,13gC.00,Born in Congo,25664
+,2,13dM.00,Born in Kosovo,25730
+,2,13eW.00,Born in Pakistan,25995
+,2,13eo.00,Born in Vietnam,26334
+,2,13eF.00,Born in Iran,26426
+,2,13dA.00,Born in Czech Republic,26463
+,2,13dP.00,Born in Lithuania,28301
+,2,13eg.00,Born in Syria,28529
+,2,13gY.00,Born in Niger,30224
+,2,13f5.00,Born in Canada,30606
+,2,13f..00,Country of birth (American),32053
+,2,13d0.00,Born in Albania,32055
+,2,13e8.00,Born in China,32058
+,2,13e0.00,Born in Afghanistan,32060
+,2,13h0.00,Born in Australia,32061
+,2,13jC.00,Born in Trinidad and Tobago,32062
+,2,13gJ.00,Born in Ghana,32067
+,2,13gl.00,Born in Uganda,32068
+,2,13eI.00,Born in Japan,32070
+,2,13fL.00,Born in USA,32072
+,2,13h1.00,Born in New Zealand,32074
+,2,13f3.00,Born in Brazil,32075
+,2,13j6.00,Born in Jamaica,32076
+,2,13g0.00,Born in Algeria,32079
+,2,13dH.00,Born in Greece,32080
+,2,13dF.00,Born in France,32081
+,2,13eD.00,Born in India,32082
+,2,13dG.00,Born in Germany,32085
+,2,13j2.00,Born in Barbados,32089
+,2,13fN.00,Born in Venezuela,32090
+,2,13dW.00,Born in Poland,32094
+,2,13de.00,Born in Spain,32097
+,2,13df.00,Born in Sweden,32098
+,2,13gM.00,Born in Ivory Coast,32099
+,2,13g..00,Country of birth (African),32102
+,2,13di.00,Born in Ukraine,32103
+,2,13gV.00,Born in Morocco,32108
+,2,13gZ.00,Born in Nigeria,32111
+,2,13gN.00,Born in Kenya,32112
+,2,13dK.00,Born in Ireland,32113
+,2,13ek.00,Born in Turkey,32114
+,2,13gS.00,Born in Malawi,32115
+,2,13dL.00,Born in Italy,32116
+,2,13dc.00,Born in Slovakia,32119
+,2,13fB.00,Born in Grenada,32120
+,2,13e3.00,Born in Bangladesh,32125
+,2,13eb.00,Born in Russia,32127
+,2,13eM.00,Born in Kyrgyzstan,32128
+,2,13j9.00,Born in St. Lucia,32131
+,2,13ej.00,Born in Thailand,32135
+,2,13dD.00,Born in Estonia,32139
+,2,13gU.00,Born in Mauritius,32140
+,2,13ec.00,Born in Saudi Arabia,32144
+,2,13dh.00,Born in The Netherlands,32150
+,2,13ed.00,Born in Singapore,32157
+,2,13gG.00,Born in Ethiopia,32158
+,2,13dX.00,Born in Portugal,32160
+,2,13gW.00,Born in Mozambique,32162
+,2,13fJ.00,Born in Peru,32166
+,2,13g5.00,Born in Burundi,32167
+,2,13gn.00,Born in Zambia,32168
+,2,13d7.00,Born in Bulgaria,32169
+,2,13eP.00,Born in Malaysia,32171
+,2,13dE.00,Born in Finland,32173
+,2,13dB.00,Born in Denmark,32186
+,2,13ge.00,Born in Somalia,32189
+,2,13d9.00,Born in Cyprus,32190
+,2,13gd.00,Born in Sierra Leone,32197
+,2,13fF.00,Born in Mexico,32201
+,2,13e7.00,Born in Chechnya,32202
+,2,13gI.00,Born in Gambia,32207
+,2,13eT.00,Born in Nepal,32217
+,2,13eC.00,Born in Hong Kong,32220
+,2,13gX.00,Born in Namibia,32233
+,2,13gP.00,Born in Liberia,32237
+,2,13dN.00,Born in Latvia,32242
+,2,13ef.00,Born in Sri Lanka,32245
+,2,13e6.00,Born in Burma,32254
+,2,13g7.00,Born in Cameroon,32255
+,2,13g1.00,Born in Angola,32260
+,2,13e2.00,Born in Bahrain,32273
+,2,13k4.00,Born in Seychelles,32293
+,2,13j0.00,Born in Antigua and Barbuda,32301
+,2,13f7.00,Born in Columbia,32303
+,2,13jB.00,Born in Togo,32304
+,2,13gc.00,Born in Senegal,32309
+,2,13f9.00,Born in Ecuador,32311
+,2,13d2.00,Born in Austria,32313
+,2,13f0.00,Born in Argentina,32325
+,2,13ga.00,Born in Rwanda,32331
+,2,13gE.00,Born in Egypt,32333
+,2,13f4.00,Born in British Guyana,32342
+,2,13dZ.00,Born in Romania,32345
+,2,13gL.00,Born in Guinea Republic,32347
+,2,13d4.00,Born in Belgium,32352
+,2,13e1.00,Born in Armenia,32361
+,2,13j4.00,Born in Dominican Republic,32369
+,2,13eh.00,Born in Taiwan,32390
+,2,13d6.00,Born in Bosnia - Herzegovnia,32397
+,2,13k..00,Country of birth (Pacific),32417
+,2,13dI.00,Born in Hungary,32688
+,2,13gk.00,Born in Tunisia,32741
+,2,13dg.00,Born in Switzerland,32807
+,2,13gg.00,Born in Sudan,36794
+,2,13gR.00,Born in Madagascar,37197
+,2,13fD.00,Born in Guyana,38075
+,2,13gA.00,Born in Chad,38117
+,2,13dS.00,Born in Moldavia,39974
+,2,13gm.00,Born in Zaire,41209
+,2,13d8.00,Born in Croatia,41210
+,2,13eO.00,Born in Lebanon,41211
+,2,13dV.00,Born in Norway,41213
+,2,13eL.00,Born in Kuwait,41217
+,2,13ee.00,Born in South Korea,41228
+,2,13f2.00,Born in Bolivia,41230
+,2,13d5.00,Born in Belorussia,41233
+,2,13fE.00,Born in Honduras,41280
+,2,13eE.00,Born in Indonesia,41289
+,2,13j3.00,Born in Cuba,41290
+,2,13f6.00,Born in Chile,41291
+,2,13eK.00,Born in Kazakhstan,41292
+,2,13eX.00,Born in Palestine,41297
+,2,13el.00,Born in Turkmenistan,41302
+,2,13dd.00,Born in Slovenia,41304
+,2,13eJ.00,Born in Jordan,41311
+,2,13dJ.00,Born in Iceland,41312
+,2,13g3.00,Born in Botswana,41316
+,2,13g2.00,Born in Benin,41318
+,2,13h..00,Country of birth (Australasian),41327
+,2,13d3.00,Born in Azerbaijan,41337
+,2,13gQ.00,Born in Libya,41341
+,2,13ep.00,Born in Yemen,41344
+,2,13gh.00,Born in Swaziland,41350
+,2,13eS.00,Born in Mongolia,41351
+,2,13e9.00,Born in Democratic People's Republic of Korea,41354
+,2,13ea.00,Born in Republic of Korea,41356
+,2,13dY.00,Born in Republic of Ireland,41357
+,2,13dR.00,Born in Malta,41364
+,2,13gK.00,Born in Guinea Bissau,41365
+,2,13fM.00,Born in Uruguay,41367
+,2,13em.00,Born in United Arab Emirates,41372
+,2,13fI.00,Born in Paraguay,41399
+,2,13en.00,Born in Uzbekistan,41402
+,2,13k0.00,Born in Fiji,42635
+,2,13eZ.00,Born in Qatar,42639
+,2,13k6.00,Born in Tonga,47559
+,2,13k5.00,Born in Solomon Islands,48297
+,2,13eB.00,Born in Georgia,49402
+,2,13j..00,Country of birth (Atlantic),49907
+,2,13eV.00,Born in Oman,51778
+,2,13eA.00,Born in East Timor,57186
+,2,13k7.00,Born in Tuvalu,57189
+,2,13j5.00,Born in Haiti,58192
+,2,13g4.00,Born in Burkina Faso,58527
+,2,13j1.00,Born in Bahamas,58533
+,2,13gH.00,Born in Gabon,59657
+,2,13e5.00,Born in Brunei,62298
+,2,13fH.00,Born in Panama,63923
+,2,13gj.00,Born in The Gambia,63927
+,2,13fA.00,Born in El Salvador,63943
+,2,13k3.00,Born in Papua New Guinea,64120
+,2,13gp.00,Born in Eritrea,64949
+,2,13f8.00,Born in Costa Rica,64984
+,2,13eR.00,Born in Mali,65310
+,2,13jA.00,Born in St. Vincent,66551
+,2,13j8.00,Born in St. Kitts and Nevis,66553
+,2,13eU.00,Born in North Korea,66560
+,2,13gD.00,Born in Djibouti,68866
+,2,13dQ.00,Born in Luxembourg,69131
+,2,13j7.00,Born in Puerto Rico,69135
+,2,13gT.00,Born in Mauritania,69143
+,2,13fK.00,Born in Suriname,69426
+,2,13eN.00,Born in Laos,69431
+,2,13g8.00,Born in Cape Verde Islands,69560
+,2,13fC.00,Born in Guatemala,69806
+,2,13dT.00,Born in Monaco,71190
+,2,13fG.00,Born in Nicaragua,74892
+,2,13eQ.00,Born in Maldives,91328
+,2,13gO.00,Born in Lesotho,93697
+,2,13gF.00,Born in Equatorial Guinea,93923
+,2,13d1.00,Born in Andorra,93935
+,2,13f1.00,Born in Belize,94050
+,2,13dO.00,Born in Liechtenstein,95708
+,2,13t..00,Born in British overseas territory,96295
+,2,13g6.00,Born in Cambodia,96636
+,2,13dm.00,Born in former Yugoslav Republic of Macedonia,96824
+,2,13e4.00,Born in Bhutan,97390
+,2,13t1.00,Born in Bermuda,98038
+,2,13da.00,Born in San Marino,98530
+,2,13dj.00,Born in Vatican City,99119
+,2,13g9.00,Born in Central African Republic,99258
+,2,13jD.00,Born in Dominica,99431
+,2,13ei.00,Born in Tajikistan,100007
+,2,13dn.00,Born in Serbia,100517
+,2,13gB.00,Born in Comoros Islands,101158
+,2,13gb.00,Born in Sao Tome and Principe,101591
+,2,13Zq.00,Country of birth unknown,101846
+,2,13v0.00,Born in Martinique,103364
+,2,13k9.00,Born in Western Samoa,103965
+,2,13t2.00,Born in Anguilla,104983
+,2,13t0.00,Born in Montserrat,105923
+,2,13jE.00,Born in Aruba,108271
+,2,13v7.00,Born in Guadeloupe,108936
+,2,13eq.00,Born in Christmas Island,109226
+,2,13dq.00,Born in Republic of Moldova,109260
+,2,13t5.00,"Born in Saint Helena, Ascension and Tristan da Cunha",109276
+,2,13do.00,Born in Montenegro,109457
+,2,13jG.00,Born in Saint Vincent and the Grenadines,109458
+,2,13t3.00,Born in British Virgin Islands,109727
+,2,13kB.00,Born in American Samoa,109791
+,2,13dp.00,Born in Belarus,109898
+,2,13gq.00,Born in Democratic Republic of Congo,109992
+,2,13v4.00,Born in French Guiana,111051
+,2,13k8.00,Born in Vanuatu,111392
+,2,13jH.00,Born in Sint Maarten,111700
+,2,13dx.00,Born in Aland Islands,111774
+,2,13t9.00,Born in Cayman Islands,112269
+,3,13lZ.00,Main spoken language Turkish,22294
+,3,041E.11,Language interpreter,22515
+,3,13Z6000,English as a second language,23523
+,3,13Z6500,Language Punjabi,24295
+,3,13Z6300,Language Hindi,24296
+,3,13Z6600,Language Urdu,24691
+,3,13Z6200,Language Gujurati,24712
+,3,13Z6100,Language Bengali,24741
+,3,13lC.00,Main spoken language Polish,24881
+,3,13b0.00,Vietnamese language,25410
+,3,13lS.00,Main spoken language Albanian,25423
+,3,13l2.00,Main spoken language Cantonese,25472
+,3,13lx.00,Main spoken language Thai,25609
+,3,13lp.00,Main spoken language Malayalam,25616
+,3,13l5.00,Main spoken language French,25665
+,3,13l1.00,Main spoken language Bengali,25802
+,3,13lE.00,Main spoken language Punjabi,25829
+,3,13lP.00,Main spoken language Shona,26078
+,3,13Z6400,Language Pashtu,26196
+,3,13lH.00,Main spoken language Spanish,26247
+,3,13lb.00,Main spoken language Vietnamese,26335
+,3,13l0.00,Main spoken language Arabic,26337
+,3,13lL.00,Main spoken language Urdu,26361
+,3,13l3.00,Main spoken language Czech,26464
+,3,13lF.00,Main spoken language Russian,32427
+,3,13lG.00,Main spoken language Somali,32456
+,3,13lB.00,Main spoken language Mandarin,32776
+,3,13lW.00,Main spoken language Japanese,36852
+,3,13lt.00,Main spoken language Serbian,36862
+,3,13lQ.00,Main spoken language Italian,36980
+,3,13lN.00,Main spoken language Kurdish,46014
+,3,13l8.00,Main spoken language Hindi,46029
+,3,13lY.00,Main spoken language Lithuanian,46325
+,3,13lK.00,Main spoken language Tamil,46861
+,3,13lV.00,Main spoken language Greek,46974
+,3,13li.00,Main spoken language French Creole,47007
+,3,13lO.00,Main spoken language Farsi,47029
+,3,13lJ.00,Main spoken language Sylheti,47627
+,3,13ld.00,Main spoken language Amharic,47628
+,3,13lR.00,Main spoken language German,47630
+,3,13lw.00,Main spoken language Tagalog,47631
+,3,13lI.00,Main spoken language Swahili,47641
+,3,13lu.00,Main spoken language Sinhala,47643
+,3,13lm.00,Main spoken language Igbo,47646
+,3,13l6.00,Main spoken language Gujerati,48002
+,3,13b4.00,Mirpuri language,52200
+,3,13lM.00,Main spoken language Yoruba,54409
+,3,13lT.00,Main spoken language Croatian,54410
+,3,13lc.00,Main spoken language Akan,54413
+,3,13lf.00,Main spoken language Dutch,54414
+,3,13lX.00,Main spoken language Korean,54415
+,3,13l9.00,Main spoken language Iba,54416
+,3,13lv.00,Main spoken language Swedish,54417
+,3,13lh.00,Main spoken language Flemish,56879
+,3,13b3.00,Creole language,57462
+,3,13ll.00,Main spoken language Hebrew,57755
+,3,13lq.00,Main spoken language Norwegian,57758
+,3,13l7.00,Main spoken language Hausa,58193
+,3,13lr.00,Main spoken language Pashto,58643
+,3,13sA.00,English as a second language,63932
+,3,13ls.00,Main spoken language Patois,64948
+,3,13la.00,Main spoken language Ukrainian,66685
+,3,13lg.00,Main spoken language Ethiopian,69139
+,3,13lo.00,Main spoken language Luganda,69153
+,3,13lA.00,Main spoken language Kutchi,72379
+,3,13lk.00,Main spoken language Hakka,91422
+,3,ZV60012,[V]Social migrant,93643
+,3,13u0.00,Main spoken language Bulgarian,95897
+,3,13ur.00,Main spoken language Latvian,95940
+,3,13lT.11,Main spoken language Serbo-Croatian,95968
+,3,13lt.11,Main spoken language Serbo-Croatian,95969
+,3,13lO.11,Main spoken language Persian,95970
+,3,13lu.11,Main spoken language Sinhalese,95974
+,3,13w1.00,Main spoken language Nepali,95978
+,3,13ua.00,Main spoken language Hungarian,96041
+,3,13lE.11,Main spoken language Panjabi,96147
+,3,13u5.00,Main spoken language Afrikaans,96148
+,3,13u1.00,Main spoken language Romanian,96152
+,3,13wL.00,Main spoken language Telugu,96163
+,3,13wR.00,Main spoken language Twi,96223
+,3,13wG.00,Main spoken language Slovenian,96230
+,3,13wD.00,Main spoken language Sindhi,96240
+,3,13ux.00,Main spoken language Marathi,96267
+,3,13uj.00,Main spoken language Kannada,96268
+,3,13uN.00,Main spoken language Danish,96289
+,3,13u6.00,Main spoken language Armenian,96290
+,3,13w5.00,Main spoken language Quechua,96317
+,3,13uv.00,Main spoken language Maltese,96370
+,3,13uu.00,Main spoken language Malay,96376
+,3,13le.00,Main spoken language Brawa,96485
+,3,13wM.00,Main spoken language Tibetan,96558
+,3,13uG.00,Main spoken language Burmese,96559
+,3,13uT.00,Main spoken language Finnish,96560
+,3,13us.00,Main spoken language Macedonian,96611
+,3,13wN.00,Main spoken language Tongan,96634
+,3,13wT.00,Main spoken language Uzbek,96784
+,3,13u2.00,Main spoken language Oromo,96857
+,3,13u4.00,Main spoken language Afar,96868
+,3,13wa.00,Main spoken language Zulu,96873
+,3,13uQ.00,Main spoken language Estonian,96928
+,3,13uk.00,Main spoken language Kashmiri,97015
+,3,13uz.00,Main spoken language Mongolian,97038
+,3,13wW.00,Main spoken language Wolof,97039
+,3,13wQ.00,Main spoken language Turkmen,97041
+,3,13u9.00,Main spoken language Azerbaijani,97083
+,3,13wH.00,Main spoken language Sundanese,97131
+,3,13uX.00,Main spoken language Georgian,97212
+,3,13wX.00,Main spoken language Xhosa,97273
+,3,13uc.00,Main spoken language Indonesian,97274
+,3,13w3.00,Main spoken language Oriya,97297
+,3,9NUC.11,Persian language interpreter needed,97298
+,3,13wB.00,Main spoken language Southern Sotho,97439
+,3,13w6.00,Main spoken language Romansh,97440
+,3,13uB.00,Main spoken language Basque,97574
+,3,13ul.00,Main spoken language Kazakh,97595
+,3,9NUz.00,Bulgarian language interpreter needed,97644
+,3,13wP.00,Main spoken language Tsonga,97685
+,3,13uK.00,Main spoken language Catalan,97997
+,3,9Nmm.00,Burmese language interpreter needed,98062
+,3,13uZ.00,Main spoken language Guarani,98070
+,3,13up.00,Main spoken language Lao,98132
+,3,13um.00,Main spoken language Kinyarwanda,98194
+,3,13uy.00,Main spoken language Moldavian,98215
+,3,13uw.00,Main spoken language Maori,98255
+,3,13w4.00,Main spoken language Filipino,98285
+,3,13uY.00,Main spoken language Kalaallisut,98510
+,3,13ub.00,Main spoken language Icelandic,98604
+,3,13u8.00,Main spoken language Aymara,98762
+,3,9NmQ.00,Hungarian language interpreter needed,98809
+,3,9NUy.00,Romanian language interpreter needed,98841
+,3,13wS.00,Main spoken language Uighur,99712
+,3,9Nn1.00,Tsonga language interpreter needed,99794
+,3,13ui.00,Main spoken language Javanese,100011
+,3,13uL.00,Main spoken language Slovak,100013
+,3,9NmA.00,Macedonian language interpreter needed,100438
+,3,13uR.00,Main spoken language Faeroese,100707
+,3,13uS.00,Main spoken language Fijian,100714
+,3,13ug.00,Main spoken language Inuktitut,100716
+,3,13uW.00,Main spoken language Galician,100743
+,3,9Nn7.00,Slovenian language interpreter needed,100759
+,3,13uH.00,Main spoken language Belarusian,100828
+,3,13uD.00,Main spoken language Bihari,100949
+,3,13wb.00,Main spoken language Konkani,101038
+,3,13uJ.00,Main spoken language Central Khmer,101189
+,3,13wA.00,Main spoken language Dari,101220
+,3,9Nn4.00,Telugu language interpreter needed,101614
+,3,13ut.00,Main spoken language Malagasy,101620
+,3,13ud.00,Main spoken language Interlingua,101659
+,3,13l9.11,Main spoken language Iban,101761
+,3,13uM.00,Main spoken language Corsican,101788
+,3,9NUc.11,Punjabi language interpreter needed,101814
+,3,13uY.11,Main spoken language Greenlandic,102007
+,3,13uC.00,Main spoken language Dzongkha,102127
+,3,13uF.00,Main spoken language Breton,102128
+,3,13ue.00,Main spoken language Interlingue,102129
+,3,13u3.00,Main spoken language Abkhazian,102184
+,3,13u7.00,Main spoken language Assamese,102218
+,3,13uA.00,Main spoken language Bashkir,102259
+,3,13wC.00,Main spoken language Tswana,102877
+,3,13uV.00,Main spoken language Frisian,103200
+,3,13w7.00,Main spoken language Samoan,103219
+,3,13uq.00,Main spoken language Bamun,104071
+,3,9NmC.00,Latvian language interpreter needed,104635
+,3,13wE.00,Main spoken language Ndebele,104886
+,3,9Nm6.00,Brawa language interpreter needed,104901
+,3,9Nmd.00,Catalan language interpreter needed,105079
+,3,13wV.00,Main spoken language Tetum,105523
+,3,13wc.00,Main spoken language Aragonese,105529
+,3,13wJ.00,Main spoken language Tajik,105960
+,3,13Z6900,First language not English,108098
+,3,9Nn6.00,Turkmen language interpreter needed,108184
+,3,9NmE.00,Kinyarwanda language interpreter needed,109489
+,3,13l6.11,Main spoken language Gujarati,109896
+,3,13wF.00,Main spoken language Swati,111709
+,3,13w0.00,Main spoken language Nauru,111734
+,3,9Nm1.00,Moldavian language interpreter needed,111788
+,3,13wZ.00,Main spoken language Zhuang,111789
+,3,13wY.00,Main spoken language Yiddish,111874
+,3,13w8.00,Main spoken language Sango,111919
+,3,9NnC.00,Sundanese language interpreter needed,112222
+,3,13uo.00,Main spoken language Rundi,112260
+,3,13wK.00,Main spoken language Tatar,112321
+,3,13lD.00,Main spoken language Portuguese,32728
+,4,13ZC.00,Immigrant,4114
+,4,ZV70314,[V]Immigration medical,8929
+,4,133L.00,Immigrant,9292
+,4,13ZN.00,Asylum seeker,9627
+,4,13D3.00,Social migrant,23398
+,4,13ZB.00,Refugee,24403
+,4,ZV70516,[V]Refugee health examination,25632
+,4,13D4.00,Illegal migrant,44407
+,4,133Q.00,Family reunion immigrant,47073
+,4,912H.00,Overseas visitor,47513
+,4,6951,Immigration examination,48029
+,4,69D8.00,Exam. of refugee,65503
+,4,13Zd.00,Failed asylum seeker,94906
+,4,13Zw.00,Has United Kingdom student visa,104123
+,4,918z.00,Has United Kingdom general visitor visa,107572
