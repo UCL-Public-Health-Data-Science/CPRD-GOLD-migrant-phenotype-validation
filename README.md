@@ -1,6 +1,6 @@
-# Project Title
+# CPRD GOLD migrant phenotype validation
 
-#### Project Status: [Completed]
+#### Project Status: [In progress]
 
 ## Project Description
 
@@ -24,14 +24,20 @@ Additional R packages required are detailed at the start of the script.
 
 ## Authors
 
-* Neha Pathak - [GitHub](___insert__)
+* Neha Pathak - [GitHub](https://github.com/nxpathak)
 * Claire Zhang - [GitHub](https://github.com/ClaireXZhang)
+* Yamina Boukari - [Github](https://github.com/YaminaB)
+* Rachel Burns
+* Rohini Mathur
+* Arturo Gonzalez-Izquierdo
+* Spiros Denaxas
+* Prof Pam Sonnenberg
+* Prof Andrew Hayward
+* Prof Rob Aldridge
+
 
 ## License
 
-This project is licensed under the [MIT License](link to license file).
+This project is licensed under the [GNU General Public License v3.0 License](https://github.com/UCL-Public-Health-Data-Science/CPRD-GOLD-migrant-phenotype-validation/blob/main/LICENSE).
 
-## Acknowledgments
-
-* Credit anyone whose code was used
 
