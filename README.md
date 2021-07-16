@@ -4,8 +4,8 @@
 
 ## Project Description
 
-* This repository contains the code, codelists and published ONS datasets from the paper [insert title](insert link) published in The Lancet Digital Health.
-* The coding scripts in this paper were used to clean and analyse the data to produce the results outlined in the paper.
+* This repository contains the code, codelists and published ONS datasets from the paper 'Development and validation of a primary care electronic health record phenotype to study migration and health in the UK', submitted for peer-reviewed publication.
+* The coding scripts in this repository were used to clean and analyse the data to produce the results outlined in the paper.
 * Insert citation for paper and [insert doi](doi link)
 
 ## Data source
