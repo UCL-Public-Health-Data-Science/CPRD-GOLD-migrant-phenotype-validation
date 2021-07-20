@@ -36,4 +36,5 @@ Additional R packages required are detailed at the start of the script.
 
 This project is licensed under the [GNU General Public License v3.0 License](https://github.com/UCL-Public-Health-Data-Science/CPRD-GOLD-migrant-phenotype-validation/blob/main/LICENSE).
 
+[![DOI](https://zenodo.org/badge/357634717.svg)](https://zenodo.org/badge/latestdoi/357634717)
 
