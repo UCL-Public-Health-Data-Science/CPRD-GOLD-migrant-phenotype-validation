@@ -1,12 +1,9 @@
 # CPRD GOLD migrant phenotype validation
 
-#### Project Status: [In progress]
-
 ## Project Description
 
-* This repository contains the code, codelists and published ONS datasets from the paper 'Development and validation of a primary care electronic health record phenotype to study migration and health in the UK', submitted for peer-reviewed publication.
+* This repository contains the code, codelists and published ONS datasets from the paper 'Development and validation of a primary care electronic health record phenotype to study migration and health in the UK'.
 * The coding scripts in this repository were used to clean and analyse the data to produce the results outlined in the paper.
-* Insert citation for paper and [insert doi](doi link)
 
 ## Data source
 
