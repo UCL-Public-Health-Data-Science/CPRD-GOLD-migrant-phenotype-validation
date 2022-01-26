@@ -2,7 +2,7 @@
 
 ## Project Description
 
-* This repository contains the code, codelists and published ONS datasets from the paper 'Development and validation of a primary care electronic health record phenotype to study migration and health in the UK'.
+* This repository contains the code, codelists and published ONS datasets from the paper 'Development and validation of a primary care electronic health record phenotype to study migration and health in the UK': https://doi.org/10.3390/ijerph182413304
 * The coding scripts in this repository were used to clean and analyse the data to produce the results outlined in the paper.
 
 ## Data source
